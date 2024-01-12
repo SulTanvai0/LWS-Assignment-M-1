@@ -1,7 +1,7 @@
 import classOneData from '../../public/assets/Data/classOne.json';
 import classTwoData from '../../public/assets/Data/classTwo.json';
 import SearchBox from './SearchBox';
-import TableRow from './tableRow';
+import TableRow from './TableRow';
 
 const StudentTable = () => {
 
