@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Sakura Tanaka",
+    "scores": "A+",
+    "percentage": 98,
+    "image": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+  },
+  {
+    "id": 2,
+    "name": "Ravi Patel",
+    "scores": "A",
+    "percentage": 92,
+    "image": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+  },
+  {
+    "id": 3,
+    "name": "Yuki Yamamoto",
+    "scores": "B",
+    "percentage": 85,
+    "image": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+  },
+  {
+    "id": 4,
+    "name": "Aisha Khan",
+    "scores": "A-",
+    "percentage": 91,
+    "image": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+  },
+  {
+    "id": 5,
+    "name": "Hiroshi Kim",
+    "scores": "C",
+    "percentage": 75,
+    "image": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+  },
+  {
+    "id": 6,
+    "name": "Mai Nguyen",
+    "scores": "A+",
+    "percentage": 97,
+    "image": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+  },
+  {
+    "id": 7,
+    "name": "Rahul Sharma",
+    "scores": "A-",
+    "percentage": 91,
+    "image": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+  },
+  {
+    "id": 8,
+    "name": "Mei Li",
+    "scores": "B",
+    "percentage": 89,
+    "image": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+  },
+  {
+    "id": 9,
+    "name": "Abdul Rahman",
+    "scores": "C",
+    "percentage": 76,
+    "image": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+  },
+  {
+    "id": 10,
+    "name": "Siti Nurul",
+    "scores": "A",
+    "percentage": 94,
+    "image": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png"
+  }
+]
